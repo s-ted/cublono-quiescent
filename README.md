@@ -1,8 +1,8 @@
 # CUBLONO Quiescent
 
-  [![Build Status](https://travis-ci.org/s-ted/cublono-quiescent)](https://travis-ci.org/s-ted/cublono-quiescent.svg)
-  [![Dependencies Status](http://jarkeeper.com/cubane/cublono-quiescent)](http://jarkeeper.com/cubane/cublono-quiescent/status.svg)
-  [![Download Status](https://jarkeeper.com/cubane/cublono-quiescent)](https://jarkeeper.com/cubane/cublono-quiescent/downloads.svg)
+  [![Build Status](https://travis-ci.org/s-ted/cublono-quiescent.svg)](https://travis-ci.org/s-ted/cublono-quiescent)
+  [![Dependencies Status](http://jarkeeper.com/cubane/cublono-quiescent/status.svg)](http://jarkeeper.com/cubane/cublono-quiescent)
+  [![Download Status](https://jarkeeper.com/cubane/cublono-quiescent/downloads.svg)](https://jarkeeper.com/cubane/cublono-quiescent)
 
   Lisp/Hiccup style templating in [ClojureScript](https://github.com/clojure/clojurescript) producing ReactJS (Quiescent) component.
 
